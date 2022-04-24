@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehmet YILDIZ.</h1>
+<h1 align="center">Hi 👋, I'm Mehmet.</h1>
 <h3 align="center">3rd-year Computer Engineering Student at Dokuz Eylül University</h3>
 
 - 🔭 I’m currently working on **2D and 3D game projects.**
