@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet.</h1>
 <h3 align="center">4th-year Computer Engineering Student at Dokuz Eylül University</h3>
 
-- 🔭 I’m currently working on **2D and 3D game projects.**
+- 🔭 I’m currently working on **game projects and Web Development.**
 
 - 🌱 I’m currently learning **Unity Game Development, Front-End and Back-End Development.**
 
