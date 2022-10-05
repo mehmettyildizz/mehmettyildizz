@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **game projects and Web Development.**
 
-- 🌱 I’m currently learning **Unity Game Development, Front-End and Back-End Development.**
+- 🌱 I’m currently learning **Unity Game Development, Front-End and Back-End Web Development.**
 
 - 📫 How to reach me: **mehmett.yildiz.9830@gmail.com**
 
