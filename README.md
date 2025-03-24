@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet.</h1>
 <h3 align="center">Dokuz Eylül University Computer Engineering Graduate</h3>
 
-- 🌱 I’m currently focused on **Full-Stack Web Development and Unity Development.**
+- 🌱 I’m currently focused on **Backend Development**
 
 - 📫 How to reach me: **mehmett.yildiz.9830@gmail.com**
 
